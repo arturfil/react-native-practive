@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/arturofiliovilla/.android/build-cache/441a8764cfcfec6e8a6726e135ff82de47b4af25/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/arturofiliovilla/.android/build-cache/441a8764cfcfec6e8a6726e135ff82de47b4af25/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/arturofiliovilla/.android/build-cache/441a8764cfcfec6e8a6726e135ff82de47b4af25/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
+        "source": "/Users/arturofiliovilla/.android/build-cache/2690c4aabce023518d22660a2b8d511a0a0f12ec/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/arturofiliovilla/.android/build-cache/441a8764cfcfec6e8a6726e135ff82de47b4af25/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/arturofiliovilla/.android/build-cache/441a8764cfcfec6e8a6726e135ff82de47b4af25/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/arturofiliovilla/.android/build-cache/441a8764cfcfec6e8a6726e135ff82de47b4af25/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
+        "source": "/Users/arturofiliovilla/.android/build-cache/2690c4aabce023518d22660a2b8d511a0a0f12ec/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/arturofiliovilla/.android/build-cache/441a8764cfcfec6e8a6726e135ff82de47b4af25/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/arturofiliovilla/.android/build-cache/441a8764cfcfec6e8a6726e135ff82de47b4af25/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/arturofiliovilla/.android/build-cache/2690c4aabce023518d22660a2b8d511a0a0f12ec/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/arturofiliovilla/.android/build-cache/441a8764cfcfec6e8a6726e135ff82de47b4af25/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
+        "source": "/Users/arturofiliovilla/.android/build-cache/2690c4aabce023518d22660a2b8d511a0a0f12ec/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/arturofiliovilla/.android/build-cache/2690c4aabce023518d22660a2b8d511a0a0f12ec/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
+        "source": "/Users/arturofiliovilla/.android/build-cache/2690c4aabce023518d22660a2b8d511a0a0f12ec/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/arturofiliovilla/.android/build-cache/441a8764cfcfec6e8a6726e135ff82de47b4af25/output/res/anim/abc_fade_out.xml"
+    }
+]

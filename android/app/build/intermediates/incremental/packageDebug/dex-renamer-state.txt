@@ -1,0 +1,7 @@
+#Sat Dec 09 23:38:54 EST 2017
+base.0=/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b422c46b263ac5b0451a5d13b4fb2c54a74d90a8
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_47f58fa6f9104d0ecf178bd13f92c427e848dfab/classes.dex
+base.1=/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_47f58fa6f9104d0ecf178bd13f92c427e848dfab
+file.0=/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b422c46b263ac5b0451a5d13b4fb2c54a74d90a8/classes.dex

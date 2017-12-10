@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/node_modules/react-native/Libraries/Text/RCTFontAttributes.m \
+  /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/node_modules/react-native/Libraries/Text/RCTFontAttributes.h \
+  /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/node_modules/react-native/Libraries/Text/RCTFontAttributesDelegate.h \
+  /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAccessibilityManager.h \
+  /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFont.h \
+  /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/arturofiliovilla/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_1f1f386d37e624d557888ab9b8d63c4eda39c4a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturofiliovilla/.android/build-cache/c3b48ba430908d7163f2154582e9b46466683f68/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_23cf2ffe9913a0bf8f946202dc2d3f341634b5ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturofiliovilla/.android/build-cache/c41b0325dd050606d22ee0e79408c3f4f059950a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e8e5ba55ea72befa28c268a94198efb582695a1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturofiliovilla/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.0_3ce044ab5de4d8dbfb151f69eb08c3dd8a504781/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturofiliovilla/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_cf7356d3e1ab5c47fbbe8f6b4a51e755c8a6b07c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturofiliovilla/.android/build-cache/1eebeb607ab16c5dc0993e3f86a83a5583a56ce9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c6c05845ccb0c16098c29eeb4cdbcf51d318f9e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturofiliovilla/.android/build-cache/2690c4aabce023518d22660a2b8d511a0a0f12ec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="24303e5ddb2c1210dd7e8db9dbab018f50313e48">
+        <dex dex="/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d4d6bd54bbee1c54ba5a8cb00a9965ce31f26d68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturofiliovilla/.android/build-cache/441a8764cfcfec6e8a6726e135ff82de47b4af25/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_793cae372c64e940ce1bb533556a3e90fe45621b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="26cdfbb0a3e9e76736f08d730303fe82a0d8edca">
+        <dex dex="/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b422c46b263ac5b0451a5d13b4fb2c54a74d90a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturofiliovilla/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.6.0_57486b6273cb1516be8766cc3fb0cbe3aead662c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturofiliovilla/.android/build-cache/e7c7239520c8966e718fb2c96bd3070322495384/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9933e0fe2f14e8c07bd7923223fc419088e3466d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturofiliovilla/.android/build-cache/06e1410d275670ac7339d213abe69fb46f216465/output/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_091525d2008e665b341a862baf7b7c5389d7a704/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturofiliovilla/.android/build-cache/2690c4aabce023518d22660a2b8d511a0a0f12ec/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-4.0_ee6bc836a3fe05fb5710295a801e723081482f2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturofiliovilla/.android/build-cache/06e1410d275670ac7339d213abe69fb46f216465/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a3baa04e973367b14458cac3a5fa0ca492c0cfe5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturofiliovilla/.android/build-cache/fe6db3bdc6ed059691c3bebd901901b7fb16077d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_913984eebc80af3c644a8fa8fb0bf05396c4adb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_47f58fa6f9104d0ecf178bd13f92c427e848dfab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturofiliovilla/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.6.0_00e096d9b13e853b369ca98f0e9f1603c97ba619/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturofiliovilla/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_88392f0a912d1f78a3fae485dc148f90b44b6614/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturofiliovilla/.android/build-cache/3f679fd31ec0d7f4b1ff93473e015241784e1cbd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_75ef191f4b6e026c103769e2433b89579b38ebc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturofiliovilla/.android/build-cache/3cd69f053288883af32981b890d86075e8cbed2f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9c9eb82b5a2040b991537ed4503da971bc18655f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturofiliovilla/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_6823ea6a3cc82428d0371604b283f1b47434d010/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturofiliovilla/.android/build-cache/6cca1378f821691432c69785d7a037c53e9366fa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ea7ea6568ca1461643a6b8870e8106fbcc36c94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturofiliovilla/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/staticlayout-proxy-1.0_75883662e5c82db402486c956cc5f2299a15e65f/classes.dex" />
+    </item>
+
+</items>
