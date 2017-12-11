@@ -1,6 +1,24 @@
 -- Merging decision tree log ---
 manifest
 ADDED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml:1:1-32:12
+MERGED from [com.facebook.react:react-native:0.50.3] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/react-native-0.50.3.aar/08466cf8992a584c8ea3ceeff1addfa5/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/e8aa59a3bc032cada88982bf9dd9387c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:23.0.1] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/8ecfd49a3d47f09e9e07c0f8e8d1b28e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/b68ad94d3698117ee3dfaef40234caa9/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/2ea746ab06bd7733b97f34469fe68dfb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/3838a8036092d4696dc4b2db94cbfc61/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/727fa36e011f4e4039d6177151aff2c5/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/5946dde36837d653fcbbfd3177cd596a/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/8cb4810ef3a77dfc5672e125757d4ebd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/3b6629cd9695aa8dd29856b00af62448/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/33fbf45a03bce8bd59dd482b553aeb53/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/02bdf1748cba0521c2f0315f5ddfedc7/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml:1:1-32:12
 	package
 		ADDED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml:2:5-27
 		INJECTED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml
@@ -9,34 +27,50 @@ ADDED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/fir
 		ADDED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml:4:5-30
 		INJECTED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml:1:11-69
 	android:versionCode
 		ADDED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml:3:5-28
 		INJECTED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml
-	xmlns:android
-		ADDED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
 ADDED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml:6:5-67
 	android:name
 		ADDED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml:6:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml:7:5-77
-MERGED from [com.facebook.react:react-native:0.50.3] /Users/arturofiliovilla/.android/build-cache/2690c4aabce023518d22660a2b8d511a0a0f12ec/output/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.50.3] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/react-native-0.50.3.aar/08466cf8992a584c8ea3ceeff1addfa5/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.50.3] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/react-native-0.50.3.aar/08466cf8992a584c8ea3ceeff1addfa5/AndroidManifest.xml:11:5-78
 	android:name
 		ADDED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml:7:22-75
 uses-sdk
 ADDED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml:9:5-11:41
-MERGED from [com.facebook.react:react-native:0.50.3] /Users/arturofiliovilla/.android/build-cache/2690c4aabce023518d22660a2b8d511a0a0f12ec/output/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/arturofiliovilla/.android/build-cache/441a8764cfcfec6e8a6726e135ff82de47b4af25/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.1] /Users/arturofiliovilla/.android/build-cache/06e1410d275670ac7339d213abe69fb46f216465/output/AndroidManifest.xml:20:5-43
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/arturofiliovilla/.android/build-cache/c3b48ba430908d7163f2154582e9b46466683f68/output/AndroidManifest.xml:14:5-16:41
-MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/arturofiliovilla/.android/build-cache/3f679fd31ec0d7f4b1ff93473e015241784e1cbd/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/arturofiliovilla/.android/build-cache/1eebeb607ab16c5dc0993e3f86a83a5583a56ce9/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/arturofiliovilla/.android/build-cache/c41b0325dd050606d22ee0e79408c3f4f059950a/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/arturofiliovilla/.android/build-cache/e7c7239520c8966e718fb2c96bd3070322495384/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/arturofiliovilla/.android/build-cache/fe6db3bdc6ed059691c3bebd901901b7fb16077d/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/arturofiliovilla/.android/build-cache/3cd69f053288883af32981b890d86075e8cbed2f/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/arturofiliovilla/.android/build-cache/6cca1378f821691432c69785d7a037c53e9366fa/output/AndroidManifest.xml:2:3-70
+INJECTED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml:9:5-11:41
+INJECTED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml:9:5-11:41
+MERGED from [com.facebook.react:react-native:0.50.3] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/react-native-0.50.3.aar/08466cf8992a584c8ea3ceeff1addfa5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.50.3] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/react-native-0.50.3.aar/08466cf8992a584c8ea3ceeff1addfa5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/e8aa59a3bc032cada88982bf9dd9387c/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/e8aa59a3bc032cada88982bf9dd9387c/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/8ecfd49a3d47f09e9e07c0f8e8d1b28e/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/8ecfd49a3d47f09e9e07c0f8e8d1b28e/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/b68ad94d3698117ee3dfaef40234caa9/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/b68ad94d3698117ee3dfaef40234caa9/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/2ea746ab06bd7733b97f34469fe68dfb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/2ea746ab06bd7733b97f34469fe68dfb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/3838a8036092d4696dc4b2db94cbfc61/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/3838a8036092d4696dc4b2db94cbfc61/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/727fa36e011f4e4039d6177151aff2c5/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/727fa36e011f4e4039d6177151aff2c5/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/8cb4810ef3a77dfc5672e125757d4ebd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/8cb4810ef3a77dfc5672e125757d4ebd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/3b6629cd9695aa8dd29856b00af62448/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/3b6629cd9695aa8dd29856b00af62448/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/33fbf45a03bce8bd59dd482b553aeb53/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/33fbf45a03bce8bd59dd482b553aeb53/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/02bdf1748cba0521c2f0315f5ddfedc7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/02bdf1748cba0521c2f0315f5ddfedc7/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml:9:5-11:41
+INJECTED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml:9:5-11:41
 	android:targetSdkVersion
 		ADDED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml:11:9-38
 		INJECTED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml
@@ -47,17 +81,22 @@ MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/arturofiliovilla/.andr
 		INJECTED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml
 application
 ADDED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml:13:5-30:19
-MERGED from [com.facebook.react:react-native:0.50.3] /Users/arturofiliovilla/.android/build-cache/2690c4aabce023518d22660a2b8d511a0a0f12ec/output/AndroidManifest.xml:13:5-20
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/arturofiliovilla/.android/build-cache/441a8764cfcfec6e8a6726e135ff82de47b4af25/output/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.0.1] /Users/arturofiliovilla/.android/build-cache/06e1410d275670ac7339d213abe69fb46f216465/output/AndroidManifest.xml:22:5-20
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/arturofiliovilla/.android/build-cache/6cca1378f821691432c69785d7a037c53e9366fa/output/AndroidManifest.xml:3:3-17
-MERGED from [org.webkit:android-jsc:r174650] /Users/arturofiliovilla/.android/build-cache/64725d1bd7ed0019ba38d847e19b7f3918aad671/output/AndroidManifest.xml:2:3-17
+MERGED from [com.facebook.react:react-native:0.50.3] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/react-native-0.50.3.aar/08466cf8992a584c8ea3ceeff1addfa5/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.50.3] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/react-native-0.50.3.aar/08466cf8992a584c8ea3ceeff1addfa5/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/e8aa59a3bc032cada88982bf9dd9387c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/e8aa59a3bc032cada88982bf9dd9387c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/8ecfd49a3d47f09e9e07c0f8e8d1b28e/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/8ecfd49a3d47f09e9e07c0f8e8d1b28e/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/727fa36e011f4e4039d6177151aff2c5/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/727fa36e011f4e4039d6177151aff2c5/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/5946dde36837d653fcbbfd3177cd596a/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/arturofiliovilla/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/5946dde36837d653fcbbfd3177cd596a/AndroidManifest.xml:2:3-17
 	android:label
 		ADDED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml:16:7-39
-	android:allowBackup
-		ADDED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml:15:7-33
 	android:icon
 		ADDED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml:17:7-41
+	android:allowBackup
+		ADDED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml:15:7-33
 	android:theme
 		ADDED from /Users/arturofiliovilla/Documents/projects/udemy-max-react-native/first-app/android/app/src/main/AndroidManifest.xml:18:7-38
 	android:name
