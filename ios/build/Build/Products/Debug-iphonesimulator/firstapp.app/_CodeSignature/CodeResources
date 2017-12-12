@@ -51,7 +51,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		HyKH4zVTAGhe7WHEy9/pw9xtuvs=
+		9pqXMblUOQ4vW2fV+Xb21Yu8Y2o=
+		</data>
+		<key>Ionicons.ttf</key>
+		<data>
+		D3lWcE/mG0nEHqGiIFEkD3AKK0Q=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -63,19 +67,19 @@
 		</data>
 		<key>PlugIns/firstappTests.xctest.dSYM/Contents/Resources/DWARF/firstappTests</key>
 		<data>
-		3DvBU4GXVhbOrr8Q0zSYypVa9Qw=
+		hIEqF9oRGlY6hfIDv6flXrM1Gms=
 		</data>
 		<key>PlugIns/firstappTests.xctest/Info.plist</key>
 		<data>
-		KyOASKc7OulFy+1R+EbBqiPMxNA=
+		j2heOFVelyPcSVoIsDGMb6yCWUE=
 		</data>
 		<key>PlugIns/firstappTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		Spa+vVkz6N7EobmrQ7kLjms7Dek=
+		vP21HwVWHpPaJjyNlZL5bzg7j+o=
 		</data>
 		<key>PlugIns/firstappTests.xctest/firstappTests</key>
 		<data>
-		/4uU4SJtSjRUruMQIgi1o644PcI=
+		5Gsc1WNy37TuY2waWssjsVRDQgM=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -192,6 +196,17 @@
 			Jh5i9giCFfo5GhN25CjMKdDJ6Kdlz/p4L95RITR+WeA=
 			</data>
 		</dict>
+		<key>Ionicons.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			D3lWcE/mG0nEHqGiIFEkD3AKK0Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			u0dnmwuuuEgbf1HGitM65aUmc2y1CxcXzGD/a2X5CKM=
+			</data>
+		</dict>
 		<key>PlugIns/firstappTests.xctest.dSYM/Contents/Info.plist</key>
 		<dict>
 			<key>hash</key>
@@ -207,44 +222,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3DvBU4GXVhbOrr8Q0zSYypVa9Qw=
+			hIEqF9oRGlY6hfIDv6flXrM1Gms=
 			</data>
 			<key>hash2</key>
 			<data>
-			D7FSIilT/rzIKC+bzM3HzNAux2A7Edh0uY4SM1hgZe4=
+			RClKawwKUTY8TSQvkdWtq7wycADSwWIv8tMVWCr1BpM=
 			</data>
 		</dict>
 		<key>PlugIns/firstappTests.xctest/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KyOASKc7OulFy+1R+EbBqiPMxNA=
+			j2heOFVelyPcSVoIsDGMb6yCWUE=
 			</data>
 			<key>hash2</key>
 			<data>
-			TZLyHxMPXX+A6dM14fXL5JJrXVZvHosaaSiYqkCAf98=
+			yUUI7mbA8gj8MFg/GP7yh/wZ0vYZ5IsjRBsTk1ylUPI=
 			</data>
 		</dict>
 		<key>PlugIns/firstappTests.xctest/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Spa+vVkz6N7EobmrQ7kLjms7Dek=
+			vP21HwVWHpPaJjyNlZL5bzg7j+o=
 			</data>
 			<key>hash2</key>
 			<data>
-			CJr7m6146Fxd3m66u9sCKWMSw0+c0+q9zebovVhCcVc=
+			+u4KROczlDQxCAeF+/PckR6bkQZPaBFRsWfgE9w+N9A=
 			</data>
 		</dict>
 		<key>PlugIns/firstappTests.xctest/firstappTests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/4uU4SJtSjRUruMQIgi1o644PcI=
+			5Gsc1WNy37TuY2waWssjsVRDQgM=
 			</data>
 			<key>hash2</key>
 			<data>
-			fEn9qy2+00vcG4RsUlpYdqWt62129ryYIinnsrmJIXg=
+			nGLZMOdMPOgzBUK/ctpyfzyLZ4ZoNkI0FzM8OeQ8fpo=
 			</data>
 		</dict>
 	</dict>
